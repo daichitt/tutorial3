@@ -3,7 +3,7 @@ School
 
 
 
-Some basic Git commands are:
+Some basic commands are:
 ```
 pwd
 /Users/Username/IdeaProjects/Tutorial3/
@@ -11,7 +11,7 @@ pwd
 cd
 /Users/Username/IdeaProjects/Tutorial3/src
 
-RUn code 
+Run code 
 java BMI/BMI.java
 
 ```
